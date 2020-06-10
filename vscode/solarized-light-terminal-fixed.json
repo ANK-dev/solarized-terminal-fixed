@@ -1,25 +1,27 @@
 {
-    "workbench.colorCustomizations": {
-        "terminal.background" :   "#FDF6E3",
-        "terminal.foreground" :   "#657B83",
+  "workbench.colorCustomizations": {
+    "[Solarized Dark]": {
+      "terminal.background":  "#FDF6E3",
+      "terminal.foreground":  "#657B83",
     
-        "terminal.ansiBrightBlack":    "#93A1A1",
-        "terminal.ansiBlack":          "#EEE8D5",
-        "terminal.ansiBrightGreen":    "#93A1A1",
-        "terminal.ansiBrightYellow":   "#839496",
-        "terminal.ansiBrightBlue":     "#657B83",
-        "terminal.ansiBrightCyan":     "#586E75",
-        "terminal.ansiWhite":          "#073642",
-        "terminal.ansiBrightWhite":    "#002B36",
-        "terminal.ansiRed":            "#DC322F",
-        "terminal.ansiGreen":          "#859900",
-        "terminal.ansiYellow":         "#B58900",
-        "terminal.ansiBlue":           "#268BD2",
-        "terminal.ansiMagenta":        "#D33682",
-        "terminal.ansiCyan":           "#2AA198",
-        "terminal.ansiBrightRed":      "#CB4B16",
-        "terminal.ansiBrightMagenta":  "#6C71C4"
-
+      "terminal.ansiBrightBlack":    "#93A1A1",
+      "terminal.ansiBlack":          "#EEE8D5",
+      "terminal.ansiBrightGreen":    "#93A1A1",
+      "terminal.ansiBrightYellow":   "#839496",
+      "terminal.ansiBrightBlue":     "#657B83",
+      "terminal.ansiBrightCyan":     "#586E75",
+      "terminal.ansiWhite":          "#073642",
+      "terminal.ansiBrightWhite":    "#002B36",
+      "terminal.ansiRed":            "#DC322F",
+      "terminal.ansiGreen":          "#859900",
+      "terminal.ansiYellow":         "#B58900",
+      "terminal.ansiBlue":           "#268BD2",
+      "terminal.ansiMagenta":        "#D33682",
+      "terminal.ansiCyan":           "#2AA198",
+      "terminal.ansiBrightRed":      "#CB4B16",
+      "terminal.ansiBrightMagenta":  "#6C71C4"
     }
+
+  }
 
 }
