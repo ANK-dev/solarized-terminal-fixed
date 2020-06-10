@@ -1,0 +1,26 @@
+{
+    "name": "Solarized Light Terminal Fixed",
+
+    "cursorColor":         "#002B36",
+    "selectionBackground": "#657B83",
+
+    "background" :   "#FDF6E3",
+    "foreground" :   "#657B83",
+
+    "brightBlack":   "#93A1A1",
+    "black":         "#EEE8D5",
+    "brightGreen":   "#93A1A1",
+    "brightYellow":  "#839496",
+    "brightBlue":    "#657B83",
+    "brightCyan":    "#586E75",
+    "white":         "#073642",
+    "brightWhite":   "#002B36",
+    "red":           "#DC322F",
+    "green":         "#859900",
+    "yellow":        "#B58900",
+    "blue":          "#268BD2",
+    "purple":        "#D33682",
+    "cyan":          "#2AA198",
+    "brightRed":     "#CB4B16",
+    "brightPurple":  "#6C71C4"
+}
